@@ -80,6 +80,18 @@ Current Resolve: ∞
 
 ---
 
+## 🐍 The Chocobo's Trail — Contribution Map
+
+*A chocobo has been spotted roaming the contribution fields...*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirisyxj/hirisyxj/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirisyxj/hirisyxj/output/github-contribution-grid-snake.svg" />
+  <img alt="chocobo trail" src="https://raw.githubusercontent.com/hirisyxj/hirisyxj/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 <p align="center">
   <em>⚙️ "The realm does not wait for the prepared — only for the persistent." ⚙️</em>
 </p>
